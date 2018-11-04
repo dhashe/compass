@@ -27,3 +27,7 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
+
+# Plugins
+plugins:
+- jekyll-redirect-from
